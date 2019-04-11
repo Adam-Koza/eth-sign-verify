@@ -1,0 +1,26 @@
+{
+  "name": "ethsignverify",
+  "version": "0.0.1",
+  "description": "Sign messages and verify signatures on ethereum with ethersjs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adam-Koza/ethsignverify.git"
+  },
+  "keywords": [
+    "signature",
+    "sign",
+    "message",
+    "verify",
+    "ethersjs"
+  ],
+  "author": "Adam Koza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adam-Koza/ethsignverify/issues"
+  },
+  "homepage": "https://github.com/Adam-Koza/ethsignverify#readme"
+}
