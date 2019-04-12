@@ -1,6 +1,6 @@
 {
   "name": "eth-sign-verify",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Sign messages and verify signatures on-chain with ethersjs",
   "main": "index.js",
   "scripts": {
