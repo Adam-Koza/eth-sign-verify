@@ -13,7 +13,7 @@ npm install eth-sign-verify --save
 
 ### signMessage(message, privateKey)
 
-Returns signature object:  {r: "", s: "", v: ""}.
+Returns signature object:  { r, s, v }.
 
 ### verifySignature(message, signatureObject, expectedAddress)
 
