@@ -1,7 +1,7 @@
 {
-  "name": "ethsignverify",
-  "version": "0.0.1",
-  "description": "Sign messages and verify signatures on ethereum with ethersjs ",
+  "name": "eth-sign-verify",
+  "version": "0.0.2",
+  "description": "Sign messages and verify signatures on-chain with ethersjs",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Adam-Koza/ethsignverify.git"
   },
   "keywords": [
+    "ethereum",
     "signature",
     "sign",
     "message",
