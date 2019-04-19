@@ -17,4 +17,4 @@ Returns signature object:  { r, s, v }.
 
 ### verifySignature(message, signatureObject, expectedAddress)
 
-Return true or false.
+Returns true or false.
